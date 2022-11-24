@@ -1,0 +1,14 @@
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.MainForm.resources
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.TablesForm.resources
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.CurrentTableForm.resources
+C:\Users\sapkhaidze\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.DishAmountForm.resources
